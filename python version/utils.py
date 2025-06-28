@@ -4,7 +4,7 @@ import math
 def get_tiingo_client():
     config = {
         'session' : True,
-        'api_key' : '1f558431f68ceb5e81cf0fab375030a83bdb6800'
+        'api_key' : "Enter your api key"
     }
     return TiingoClient(config)
 
